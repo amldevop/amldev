@@ -1,0 +1,26 @@
+*{
+    margin: 0 auto;
+    max-width: 90%;
+    color: aliceblue;
+}
+/* body */
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #000000;
+}
+/* header */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+header a{
+    text-decoration: none;
+}
+form{
+    text-align: center;
+}
+input{
+    height: 40px;
+    margin-right: -10px;
+}

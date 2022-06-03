@@ -1,0 +1,22 @@
+h1{
+    color: red
+}
+p:hover{
+    color: green;
+}
+p:last-child{
+    color: darkcyan;
+}
+p:hover{
+    color: green;
+}
+div{
+    border: 1px solid black;
+}
+div p span:last-of-type:hover{
+    background-color: gold;
+}
+html{
+    font-size: 10px;
+    letter-spacing: 2px;
+}
